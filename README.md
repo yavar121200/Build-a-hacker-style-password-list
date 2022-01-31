@@ -1,2 +1,4 @@
 # Build-a-hacker-style-password-list
-password list Hack2
+#password list 
+#hack instagram 
+#wordlist
